@@ -1,6 +1,7 @@
 ---
 title: 나의 첫번째 포스팅
-date: "2019-08-18T23:46:37.121Z"
+date: "2019-08-18"
+description: my first description
 ---
 
 Gatsby 시작을 위한 나의 첫 번째 포스팅. 이 블로그 관리를 시작으로 나의 다양한 실험이 진행될 예정이다.
