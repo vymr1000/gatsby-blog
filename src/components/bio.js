@@ -53,11 +53,26 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p>
-        스스로 만족하는 Frontend Engineer가 되기 위하여.
-        {` `}
-        <a href={`https://github.com/${social.github}`}>Github</a>
-      </p>
+      <div
+        style={{
+          display: `flex`,
+          flexDirection: `column`,
+        }}
+      >
+        <p
+          style={{
+            margin: 0,
+            fontWeight: 900,
+          }}
+        >
+          {author}
+        </p>
+        <p>
+          스스로 만족하는 Frontend Engineer가 되기 위하여.
+          {` `}
+          <a href={`https://github.com/${social.github}`}>Github</a>
+        </p>
+      </div>
     </div>
   )
 }
