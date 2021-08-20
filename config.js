@@ -28,7 +28,7 @@ module.exports = {
   author: {
     name: "Alexander Boykin",
     photo: "/flight-plan.jpg",
-    bio: "스스로 만족하는 Front-end Engineer가 되기 위하여.",
+    bio: "스스로 만족하는 Software Engineer가 되기 위하여.",
     contacts: {
       email: "",
       facebook: "#",
